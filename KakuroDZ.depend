@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1554371761 source:/users/haddab16/Documents/KakuroDZ/Case.cpp
+	"Case.h"
+
+1554371750 /users/haddab16/Documents/KakuroDZ/Case.h
+
+1554371987 source:/users/haddab16/Documents/KakuroDZ/Generateur.cpp
+	"Generateur.h"
+	<iomanip>
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1554373391 /users/haddab16/Documents/KakuroDZ/Generateur.h
+	<stdio.h>
+	<iostream>
+	"Case.h"
+
